@@ -1,2 +1,4 @@
 # hello-world
-Ejmplo
+Ejemplo
+
+Ejemplo para aprender a usar GitHub
